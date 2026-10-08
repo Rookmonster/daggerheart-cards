@@ -1,0 +1,1 @@
+{"name":"Daggerheart Card Table","version":"1.0.0","manifest_version":1,"description":"Upload card images, build your loadout, vault cards, and show cards to the table.","author":"Rook","icon":"icon.svg","action":{"title":"Daggerheart Cards","icon":"icon.svg","popover":"index.html","width":620,"height":760}}
